@@ -65,8 +65,8 @@ class MyHomePage extends StatelessWidget {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('First Name: Kongpob'),
-                    Text('Last Name: Boonma'),
+                    Text('First Name: Piyada'),
+                    Text('Last Name: Booraart'),
                   ],
                 ),
               ],
@@ -93,10 +93,10 @@ class MyHomePage extends StatelessWidget {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('Primary: Wangdin school'),
-                    Text('Secondary: T.U.N.U School'),
+                    Text('Primary: Satrirachinuthid school'),
+                    Text('Secondary: Satrirachinuthid school'),
                     Text('UnderGrad: Naresuan University'),
-                    Text('Major:Computer Scient')
+                    Text('Major:play game')
                   ],
                 ),
                 Column(
